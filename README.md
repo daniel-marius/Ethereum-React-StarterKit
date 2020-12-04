@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - React starter kit
 - Truffle framework configuration
 - Several CSS frameworks for styling
+- Redux configuration
 - Ethers.js library
 
 ## Available Scripts
